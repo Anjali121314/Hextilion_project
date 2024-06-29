@@ -1,0 +1,168 @@
+.btn{
+border-radius: 40px;
+background-color: rgb(8, 129, 8);
+/* width: 120%; */
+}
+.bi-icon{
+    color: #E6E6E6;
+}
+.image-header{
+    z-index: 0;
+}
+.header-section{
+padding-right: 0%;
+padding-left: 0%;
+}
+.header-text{
+    margin-top: -300px;
+    z-index: 1;
+font-family: Satoshi;
+font-size: 80px;
+font-weight: 700;
+line-height: 96px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.headerp-text{
+    color: white;
+    font-family: Satoshi;
+}
+.service-header{
+   margin-top: 40%;
+}
+.text-green{
+    color: #4DBA2F;
+    text-align: center;
+    font-family: Satoshi;
+}
+.serveice-para{
+    text-align: center;
+}
+.about-hextitlion-section{
+    width: 1920px;
+    height: 648px;
+    top: 1860px;
+}
+.contact-us{
+    background: #4dba2f14;
+}
+.form-control{
+    background-color: #E6E6E6;
+    border-radius: 0%;
+    width: 180%;
+}
+/* .img-text{
+    margin-top: -30%;
+} */
+.contact-content{
+    margin-top: 80px;
+}
+.border-bottom{
+    width: 50%;
+    margin: auto;
+}
+.message-text{
+    height: 100px;
+    font-family: Satoshi;
+}
+.bi{
+    color: rgb(165, 165, 164);
+}
+.footer{
+    background-color: #4dba2f14;
+}
+.get-in-touch{
+    background-color: rgb(14, 2, 56);
+}
+.about-hextitlion-section{
+    background-color: #4dba2f14;
+}
+
+/* index1.html */
+.intoHextilion-content{
+margin-left: 20%;
+margin-top: 35%;
+}
+.Our-Mission-Vision{
+    background-color: #2a96063d;
+}
+.img-customer{
+    width: 70%;
+border-radius: 15px;
+
+}
+.customers-choose{
+    margin-left: 20%;
+    /* width: 500px;
+    height: 400px; */
+    }
+
+.principal{
+    background-color: #2a96063d;
+    /* margin-top: 299px; */
+}    
+.principal-para{
+    margin-top: 190px;
+}
+
+.card-section{
+    margin-left: 17%;
+}
+.eager{
+    background-color: #2a96063d;
+}
+
+.card-eager{
+    width: 850px;
+    height: 450px;
+    margin-left: 10%;
+    border-radius: 10px;
+    
+}
+.eager-btn{
+    width: 200px;
+    margin-left: 140%;
+}
+
+.img-rectangle2598{
+    width: 1920px;
+height: 650px;
+top: 60px;
+
+}
+.card-learnmore{
+    border-radius: 10px;
+ /* height: 140%;    */
+}
+
+.bi{
+    margin-left: 50%;
+    color: #0D2B4C;
+}
+.about-text{
+    margin-top: -500px;
+    z-index: 1;
+font-family: Satoshi;
+line-height: 96px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+/* .contact-us-text{
+    margin-top: 90%;
+} */
+
+/* .green-text{
+    background-color: rgb(8, 129, 8);
+}
+.white-text{
+    background-color: aliceblue;
+}
+.headerp-text{
+    width: 648px;
+height: 86px;
+top: 757px;
+left: 192px;
+
+} */
